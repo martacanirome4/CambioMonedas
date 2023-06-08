@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: org.pr2.AppTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.042 s <<< FAILURE! - in org.pr2.AppTest
+cambioLambda250Ok(org.pr2.AppTest)  Time elapsed: 0.012 s  <<< FAILURE!
+java.lang.AssertionError: expected:<2> but was:<-138>
+	at org.pr2.AppTest.cambioLambda250Ok(AppTest.java:43)
+
